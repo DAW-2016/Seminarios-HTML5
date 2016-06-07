@@ -2,7 +2,7 @@
 
 **Quantidade de alunos por grupo: 3**
 
-**Data: 03/06/2016**
+**Data: 17/06/2016**
 
 **Valor: 6 pontos**
 
@@ -12,9 +12,9 @@ A linguagem HTML5 apresenta uma nova forma de se escrever páginas web. Por meio
 
 Você deverá criar uma apresentação que explique qualquer um dos seguintes tópicos abaixo:
 
-- Offline / Storage: Web Storage, Application Cache
-- Realtime / Communication: Web Workers, Notifications
-- File / Hardware Access: Drag & Drop, Geolocation
+- Offline / Storage: Web Storage, Application Cache: Ariel, Augusto e Henzo
+- Realtime / Communication: Web Workers, Notifications: Gabriel, Alan e Luiz
+- File / Hardware Access: Drag & Drop, Geolocation: Ilmer, Marcelo e Lucas
 
 Sua apresentação deverá ter, obrigatóriamente:
 
@@ -28,4 +28,4 @@ Sua apresentação deverá ter, obrigatóriamente:
 
 Você deverá escolher um dos tópicos apresentados pelo outro grupo e então fazer o exercício proposto por ele. A metodologia segue a mesma dos exercícios de aula. Fazer o fork, implementar os exercícios, e então entregar na forma de pull request.
 
-*Data de entrega: 10/06/2016*
+*Data de entrega: 21/06/2016*
